@@ -1,0 +1,1 @@
+# Gerador-de-Senhas-v1.0.0
